@@ -1,4 +1,4 @@
-package com;
+package com.emisdep;
 
 import java.util.Random;
 
