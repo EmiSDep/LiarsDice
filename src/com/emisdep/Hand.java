@@ -9,7 +9,7 @@ public class Hand {
 
     public  Hand() {
         dice = new ArrayList<Die>();
-        for(int count = 0; count  < 5; count++) {
+        for(int count = 0; count  < 7; count++) {
             dice.add(new Die());
         }
     }
